@@ -1,2 +1,3 @@
-# Welcome to my Website :)
-My name is Jacob Fick. I am curently experimenting with using github. I have never used it before so hopefuly my computer doesnt blow up or get confiscated by the US Government. lol :)
+# Seventh Day Baptist Church - Battle Creek Mi
+Welcome to the Battle Creek Seventhday Baptist Church Homepage. 
+Currently this page is still in development. Please check back at a later time
