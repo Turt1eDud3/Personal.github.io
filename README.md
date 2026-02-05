@@ -1,5 +1,5 @@
 # Socially Awkward - Test
-This is the offical website for the Socially Awkward Youtube/Crew members. 
+This is the offical website for the Socially Awkward Youtube Crew/members. 
 
 Here you can find a preview of the latest videos that have been uploaded :)
 <video controls width="600">
