@@ -1,4 +1,8 @@
-# Seventh Day Baptist Church - Battle Creek Mi
-Welcome to the Battle Creek Seventhday Baptist Church Homepage. 
+# Socially Awkward - Test
+This is the offical website for the Socially Awkward Youtube/Crew members. 
 
-Currently this page is still in development. Please check back at a later time
+Here you can find the latest videos that have been uploaded 
+<video controls width="600">
+    <source src="YOUR_VIDEO_RAW_URL" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
