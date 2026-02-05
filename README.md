@@ -18,7 +18,7 @@ Down below are links to different projects and creations that members have made 
 # Videos
 You can view videos created by other members down below. Videos depend on the persons preference.
 
-<iframe width="1080" height="100%" src="https://www.youtube.com/embed/dQw4w9WgXcQ">
+<iframe width="854" height="480%" src="https://www.youtube.com/embed/dQw4w9WgXcQ">
 </iframe>
 
 # Minecraft Mods
