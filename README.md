@@ -11,4 +11,4 @@ This is a link to the [Google Drive Folder](https://drive.google.com/drive/folde
   KCC Concert Band Performance
 
 * February, 28 - (Unknown)
-  Western Michigan Concert band Perofrmance
+  Western Michigan Concert Band Perofrmance
