@@ -15,7 +15,7 @@ Down below are links to different projects and creations that members have made 
 
 * [Adventure Game](https://github.com/ncrech/choose-your-adventure/releases/tag/adventure) - A game created by Khloe, its a terminal based game with multiple choices and multiple endings. You can encounter a bunny, or get killed by a creepy guy :) 
 
-#Videos
+# Videos
 you can view videos created by other members down below. Videos depend on the persons preference.
 
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com" title="Video title" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
