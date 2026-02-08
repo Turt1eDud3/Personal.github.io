@@ -9,7 +9,7 @@
 <img width="100%" height="100%" alt="Untitled design" src="https://github.com/user-attachments/assets/e33c17c1-3ba1-4f50-83cc-00f62a7e26a5" />
 Welcome to the offical website for the Socially Awkward Group Crew/members. 
 
-Here you can find videos that have been uploaded to the Socially Awkward Youtube Channell :)
+Here you can find links to the Youtube Channel, projects we have made and other little things :)
 
 This is a link to the [Google Drive Folder](https://drive.google.com/drive/folders/1DymEwEe3HmQ0Xk5rJOchxcPaffUFIXmI?usp=sharing) that will have the videos :)
 
@@ -21,7 +21,7 @@ Down below are links to different projects and creations that members have made 
 * [Adventure Game](https://github.com/ncrech/choose-your-adventure/releases/tag/adventure) - A game created by Khloe, its a terminal based game with multiple choices and multiple endings. You can encounter a bunny, or get killed by a creepy guy :) 
 
 # Videos
-You can view videos created by other members down below. Videos depend on the persons preference.
+You can view the latest video that has been uploaded or videos from other channels.
 
 <iframe width="427" height="240" src="https://www.youtube.com/embed/id-here">
 </iframe>
